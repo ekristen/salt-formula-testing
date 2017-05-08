@@ -1,4 +1,4 @@
 formula:
   file.managed:
-    - name: /tmp/another-one
-    - contents: two
+    - name: /tmp/another-two
+    - contents: three
